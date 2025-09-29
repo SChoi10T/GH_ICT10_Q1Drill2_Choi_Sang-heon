@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #ffffff;
+    font-family: "Montserrat", sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.container form {
+    background-color: #083980;
+    padding: 40px;
+    border-radius: 15px;
+}
+
+.container label {
+    color: #ffffff;
+}
+
+#output {
+    background-color: #021B40;
+    padding: 40px;
+    border-radius: 15px;
+    color: #ffffff;
+    white-space: pre-wrap;
+}
